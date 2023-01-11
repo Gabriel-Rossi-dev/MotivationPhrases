@@ -15,6 +15,8 @@ import dev.gabriel.rossi.motivationexercise.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
+
+
     private lateinit var binding: ActivityMainBinding
     private var categoryID = MotivationConstants.FILTER.ALL
     override fun onCreate(savedInstanceState: Bundle?) {

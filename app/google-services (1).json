@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743880288416",
+    "project_id": "motivation-74d99",
+    "storage_bucket": "motivation-74d99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743880288416:android:37d26bf4087e8c3956c1c5",
+        "android_client_info": {
+          "package_name": "dev.gabriel.rossi.motivationexercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743880288416-ik4gisn4n5uptkok4fnjkq8f6m1ce7pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4UUwsPmzet93U4lJmymHpbYTn3d7pykI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743880288416-ik4gisn4n5uptkok4fnjkq8f6m1ce7pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
